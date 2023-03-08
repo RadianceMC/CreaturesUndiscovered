@@ -1,6 +1,6 @@
-package net.examplemod.fabric;
+package com.joostmsoftware.fabric;
 
-import net.examplemod.ExampleMod;
+import com.joostmsoftware.ExampleMod;
 import net.fabricmc.api.ModInitializer;
 
 public class ExampleModFabric implements ModInitializer {

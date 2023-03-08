@@ -16,7 +16,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.examplemod.fabric.ExampleModFabric"
+      "com.joostmsoftware.fabric.ExampleModFabric"
     ]
   },
   "mixins": [
