@@ -1,26 +1,26 @@
 {
   "schemaVersion": 1,
-  "id": "examplemod",
+  "id": "creaturesundiscovered",
   "version": "${version}",
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Creatures Undiscovered",
+  "description": "A mob add-on for the Regions Unexplored mod.",
   "authors": [
-    "Me!"
+    "JoostMSoftware"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
     "sources": "https://github.com/FabricMC/fabric-example-mod"
   },
-  "license": "Insert License Here",
+  "license": "LGPLv3",
   "icon": "assets/examplemod/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.joostmsoftware.fabric.ExampleModFabric"
+      "com.joostmsoftware.creaturesundiscovered.fabric.ExampleModFabric"
     ]
   },
   "mixins": [
-    "examplemod.mixins.json",
+    "creaturesundiscovered.mixins.json",
     "examplemod-common.mixins.json"
   ],
   "depends": {

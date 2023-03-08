@@ -1,6 +1,6 @@
-package com.joostmsoftware.fabric;
+package com.joostmsoftware.creaturesundiscovered.fabric;
 
-import com.joostmsoftware.ExampleMod;
+import com.joostmsoftware.creaturesundiscovered.ExampleMod;
 import net.fabricmc.api.ModInitializer;
 
 public class ExampleModFabric implements ModInitializer {

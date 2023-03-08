@@ -1,4 +1,4 @@
-package com.joostmsoftware;
+package com.joostmsoftware.creaturesundiscovered;
 
 import com.google.common.base.Suppliers;
 import dev.architectury.registry.CreativeTabRegistry;

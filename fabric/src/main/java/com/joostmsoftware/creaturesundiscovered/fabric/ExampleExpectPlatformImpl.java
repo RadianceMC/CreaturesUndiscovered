@@ -1,6 +1,6 @@
-package com.joostmsoftware.fabric;
+package com.joostmsoftware.creaturesundiscovered.fabric;
 
-import com.joostmsoftware.ExampleExpectPlatform;
+import com.joostmsoftware.creaturesundiscovered.ExampleExpectPlatform;
 import net.fabricmc.loader.api.FabricLoader;
 
 import java.nio.file.Path;

@@ -1,4 +1,4 @@
-package com.joostmsoftware;
+package com.joostmsoftware.creaturesundiscovered;
 
 import dev.architectury.injectables.annotations.ExpectPlatform;
 import dev.architectury.platform.Platform;

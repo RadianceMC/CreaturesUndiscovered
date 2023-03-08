@@ -1,4 +1,4 @@
-package com.joostmsoftware.mixin;
+package com.joostmsoftware.creaturesundiscovered.mixin;
 
 import net.minecraft.client.gui.screens.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;

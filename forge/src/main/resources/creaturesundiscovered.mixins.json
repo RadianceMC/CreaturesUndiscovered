@@ -1,9 +1,8 @@
 {
   "required": true,
-  "package": "com.joostmsoftware.mixin",
+  "package": "com.joostmsoftware.creaturesundiscovered.forge.mixin",
   "compatibilityLevel": "JAVA_17",
   "client": [
-    "MixinTitleScreen"
   ],
   "mixins": [
   ],

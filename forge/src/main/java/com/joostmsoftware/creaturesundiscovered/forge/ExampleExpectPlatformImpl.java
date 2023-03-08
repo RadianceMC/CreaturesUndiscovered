@@ -1,6 +1,6 @@
-package com.joostmsoftware.forge;
+package com.joostmsoftware.creaturesundiscovered.forge;
 
-import com.joostmsoftware.ExampleExpectPlatform;
+import com.joostmsoftware.creaturesundiscovered.ExampleExpectPlatform;
 import net.minecraftforge.fml.loading.FMLPaths;
 
 import java.nio.file.Path;

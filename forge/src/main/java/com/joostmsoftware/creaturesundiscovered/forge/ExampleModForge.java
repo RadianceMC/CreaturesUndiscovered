@@ -1,6 +1,6 @@
-package com.joostmsoftware.forge;
+package com.joostmsoftware.creaturesundiscovered.forge;
 
-import com.joostmsoftware.ExampleMod;
+import com.joostmsoftware.creaturesundiscovered.ExampleMod;
 import dev.architectury.platform.forge.EventBuses;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
