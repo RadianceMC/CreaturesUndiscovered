@@ -21,7 +21,7 @@
   },
   "mixins": [
     "creaturesundiscovered.mixins.json",
-    "examplemod-common.mixins.json"
+    "creaturesundiscovered-common.mixins.json"
   ],
   "depends": {
     "fabric": "*",
